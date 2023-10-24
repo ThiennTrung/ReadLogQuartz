@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "YgQtDpWcX6hhEGuKZt28eyIhm+OMeBMpNga1l6SQbA2Q5poZrQH+fQ8NWA5fU5B8r4q/LyJEe+qKvZXFSJfmHw==",
+  "dgSpecHash": "8SRICsXrzoFldUn1mGe/sVsJjF5pS1+AmH0Tqw6UYr2ANA1CNn+mJVHTjNRvDSSVuy6KwbmAFi6gCJbCYAW27A==",
   "success": true,
   "projectFilePath": "C:\\Users\\TrungVT21\\Desktop\\ReadLogQuartz\\ReadLogQuartz\\ReadLogQuartz.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\TrungVT21\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\TrungVT21\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\TrungVT21\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\TrungVT21\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\TrungVT21\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
